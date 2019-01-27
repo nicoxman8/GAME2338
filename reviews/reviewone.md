@@ -1,12 +1,12 @@
-# Game Review for (GAME TITLE)
+# Game Review for (Dying Light)
 
 ## Details
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Dying Light https://g.co/kgs/hqCSYK
 
 ### Rating
-Insert your rating system.
+4/5 stars
 
 ## Summary
 This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
