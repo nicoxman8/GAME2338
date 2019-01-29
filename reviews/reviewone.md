@@ -3,7 +3,7 @@
 ## Details
 
 ### Game Title
-Dying Light https://g.co/kgs/hqCSYK
+Dying Light https://www.geforce.com/games-applications/pc-games/dying-light/description
 
 ### Rating
 4/5 stars
