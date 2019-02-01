@@ -1,12 +1,12 @@
-# Game Review for (GAME TITLE)
+# Game Review for (Papers, Please)
 
 ## Details
 
 ### Game Title
-The name of the game, subtitle, and the url or information on how to find the game.
+Papers, Please, https://store.steampowered.com/app/239030/Papers_Please/
 
 ### Rating
-Insert your rating system. Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I give Papers, Please a 3/5 star rating.
 
 ## Summary
 This game is about... this should be at least 3-4 paragraphs summarising the gameplay mechanics of the game. You should be answering the who, what, when, where, why, and how of the game itself.
