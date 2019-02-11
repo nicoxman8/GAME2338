@@ -1,9 +1,9 @@
-# Game Review for (_Dude, Stop)
+# Game Review for (Dude, Stop)
 
 ## Details
 
 ### Game Title
-_Dude, Stop, https://store.steampowered.com/app/574560/Dude_Stop/
+_Dude, Stop_, https://store.steampowered.com/app/574560/Dude_Stop/
 
 ### Rating
 I would rate this game a 5/5 stars.
