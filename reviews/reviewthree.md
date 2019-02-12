@@ -6,7 +6,7 @@
 _Dude, Stop_, https://store.steampowered.com/app/574560/Dude_Stop/
 
 ### Rating
-#I would rate this game a 5/5 stars.
+I would rate this game a 5/5 stars.
 
 ## Summary
 _Dude, Stop_ is a puzzle game where the goal of the game is to "make everyone hate you." The game features a series of puzzles in the form of packs and a narrator trying to help the player (Test Subject #17) pass them because of a bet he made. The game allows the player to pass the puzzles by doing the right things or the wrong things (such as littering). Some packs, however, will not let the player progress unless they do both. The first puzzle is the only puzzle that requires the player to do the wrong things to progress. The player may also do a puzzle pack again to try the other way or earn a special or secret trophy.
