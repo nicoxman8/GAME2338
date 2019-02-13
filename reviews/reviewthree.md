@@ -16,7 +16,7 @@ This game features many real-life situations that may irritate people. Whether i
 The narrator mentions a thing called D.U.C.K., an unfinished project that will not allow the player to fail the puzzles. After failing the puzzles in pack 7 the narrator will activate D.U.C.K. However, as it is unfinished, the player will still be allowed to fail puzzles and it will cause issues with the test because it is unstable. The game features a very humorous narrative along with the text that appears after a puzzle is completed. Throughout the game the player will find hidden jigsaw puzzle pieces which, if all are collected, will unlock a special level after the game is completed. This puzzle can also be done good and bad.
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+_Dude, Stop_ is an excellent game! I very much enjoy the humor and narration that was put into this game. The trophies that are available for completing a specific task in the puzzle packs is a great way to keep the player engaged. I played this game when it was still just a demo and I enjoy the twist they put on the game, where the D.U.C.K. is "the bad guy". They implemented a story element in the game rather than just making it a typical puzzle game. I look forward to seeing what the developers create in the future.
 
 ## Additional Information
 https://screenrant.com/dude-stop-review/
