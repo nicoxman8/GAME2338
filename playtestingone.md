@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for [The Sims 4]
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Electronic Arts
+* 5/5
+* https://www.ea.com/games/the-sims/the-sims-4/pc/store/mac-pc-download-base-game-standard-edition
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
