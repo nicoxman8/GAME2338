@@ -1,4 +1,4 @@
-# Playtest for [The Sims 4]
+# Playtest for [_The Sims 4_]
 
 * Electronic Arts
 * 5/5
