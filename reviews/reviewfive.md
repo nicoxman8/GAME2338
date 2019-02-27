@@ -3,7 +3,7 @@
 ## Details
 
 ### Game Title
-Yoshi's Island DS, https://www.gamestop.com/ds/games/yoshis-island-ds/61610
+_Yoshi's Island DS_, https://www.gamestop.com/ds/games/yoshis-island-ds/61610
 ### Rating
 I would give this game a 4/5 star rating.
 
