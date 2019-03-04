@@ -19,4 +19,4 @@ Each of the playable characters in this game has a unique ability. Baby Mario ca
 _Yoshi's Island DS_ 
 
 ## Additional Information
-Links to other reviews or other information you used in this review.
+https://www.metacritic.com/game/ds/yoshis-island-ds
