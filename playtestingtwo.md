@@ -1,4 +1,4 @@
-# Playtest for [Game Title]
+# Playtest for [Bully]
 
 * Game Publisher
 * Game Rating
