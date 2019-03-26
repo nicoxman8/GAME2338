@@ -1,8 +1,8 @@
 # Playtest for [_Breach and Clean_]
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* Rami Ismail
+* 5/5
+* [https://ramiismail.itch.io/breach-and-clean]
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
