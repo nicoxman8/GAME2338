@@ -23,4 +23,4 @@
 > _Answer:_ Yes
 
 **Question:** During gameplay what problems or issues seemed to happen and how did you get them to reoccur?
-> _Answer:_ The area of play is in a narrow hallway, making it difficult to maneuver around to get the item needed. The dynamite (required to open locked rooms) is on the other side of the cart and it is difficult to go around the cart to get it. I cannot reach it from the other side.
+> _Answer:_ The area of play is a narrow hallway, making it difficult to maneuver around the cart to get the item needed. The dynamite (required to open locked rooms) is on the other side of the cart and it is difficult to go around the cart to get it. I cannot reach it from the other side.
