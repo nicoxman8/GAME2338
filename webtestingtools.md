@@ -1,5 +1,9 @@
 # Web Testing Tools
 ## Tools
 * Ranorex
-* Sahi
-* Watir
+* TestComplete
+* Zephyr
+## Companies
+* Ranorex-Ranorex GmbH
+* TestComplete-SmartBear Software
+* Zephyr-Zephyr CORP
