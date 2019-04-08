@@ -8,4 +8,4 @@
 * TestComplete-SmartBear Software
 * Zephyr-Zephyr CORP
 ## Features
-** Ranorex
+### Ranorex
