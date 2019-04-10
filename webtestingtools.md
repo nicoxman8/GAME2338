@@ -9,7 +9,17 @@
 * Zephyr-Zephyr CORP
 ## Features
 #### Ranorex
-
+* Robust object identification
+* Code editor
+* Web and mobile test command center
+#### TestComplete
+* Object Recognition Engine with Artificial Intelligence
+* HTML5 Test Automation
+* Automated Test Reporting & Analysis
+#### Zephyr
+* Web service APIs
+* SSL powered security
+* Real time, stand alone Jira integration
 ## Answers
 #### Ranorex
 * Ranorex uses the test suite structure as test case storage.
