@@ -20,7 +20,11 @@
 * Web service APIs
 * SSL powered security
 * Real time, stand alone Jira integration
-## Answers
+## Questions & Answers
+
+_Does this tool do any test case storage?_
+_Does this tool allow tester to link requirements or defects to test cases?_
+_If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_
 #### Ranorex
 * Ranorex uses the test suite structure as test case storage.
 * Ranorex allows testers to link requirements and/or defects to test cases to make them easier to manage.
