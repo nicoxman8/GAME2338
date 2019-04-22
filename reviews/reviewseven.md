@@ -15,7 +15,7 @@ When playing a song, depending on the instrument chosen, the player must make a 
 _Wii Music_ also has minigames. These consist of Mii Maestro, Pitch Perfect, and Handbell Harmony. In Mii Maestro, the player chooses a Mii to play as and a composition to conduct. Once the game starts, they must raise their baton to get the choir's attention then swing the Wii Remote like a conductor baton to make the choir play the composition chosen. The harder the Wii Remote is swung the louder the music plays. Pitch Perfect is like a music quiz. The player gets a question such as "Which Mii is playing the wrong note?" Then based on what they hear, they must click and drag the correct Mii(s) onto the platform. Completing these unlocks new songs for the player. Handbell Harmony plays in a similar manner to Jam mode. The player chooses a song and which handbells to use as each has a different pitch. Then, following the on-screen guide, they swing the Wii Remote and Nunchuk to play the bells.
 
 ## Final Thoughts
-I like this about the game but didn't like this particular feature. This should be at a minimum of one paragraph.
+_Wii Music_ is a really fun game. I enjoy it very much and the minigames are very entertaining. Being able to play instruments in such an immersive way is a really good idea and I adore that feature. I would highly recommend this game to anyone who enjoys music as much as I do. Also the jacket designing feature when saving a video enriches the game further. It sprouts creativity. _Wii Music_ seems to be one of the best music focused games out there.
 
 ## Additional Information
 https://en.wikipedia.org/wiki/Wii_Music
